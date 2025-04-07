@@ -1,2 +1,1 @@
-# python
-Learning Python
+# Shell and Python Scripts for Daily use
