@@ -1,4 +1,4 @@
-## Print "Error" lines from a log file and highlight the letter "Error" in RED ##
+## Print "ERROR" lines from a log file and highlight the letter "ERROR" in RED ##
 
 #!/bin/bash
 
