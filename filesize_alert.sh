@@ -1,3 +1,5 @@
+## Alert if the file size exceeds 1 MB or not ##
+
 #!/bin/bash
 
 if [ $# -ne 1 ]; then
@@ -19,4 +21,3 @@ if [ -n "$SIZE" ] && [ "$SIZE" -gt 1048576 ]; then
 else
   echo "File size is ok"
 fi
-
