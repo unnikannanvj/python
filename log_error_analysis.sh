@@ -1,3 +1,5 @@
+## Print "Error" lines from a log file and highlight the letter "Error" in RED ##
+
 #!/bin/bash
 
 LOG_FILE="/tmp/sample.log"
